@@ -34,7 +34,7 @@ I love building **scalable web applications**, solving challenging problems, and
 ---
 
 ## 🧩 DSA Practice
-![LeetCode Stats](https://leetcard.jacoblin.cool/<Anna-K>?theme=dark&font=Nunito&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anna-K?theme=dark&font=Nunito&ext=contest)
 
 ---
 
