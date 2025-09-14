@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ananyaa Koundal  
 
-🎯 **Software Developer | MCA Student | Problem Solver**
+🎯 **Software Developer | Computer Science Graduate | Problem Solver**
 
 I am a passionate **Computer Science graduate (B.Sc. Hons)** currently pursuing MCA (Distance Learning) while working at **Accenture** (Client: Google).  
 I love building **scalable web applications**, solving challenging problems, and continuously learning new technologies.  
@@ -30,6 +30,11 @@ I love building **scalable web applications**, solving challenging problems, and
 
 ## 📊 GitHub Stats
 ![Ananyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaaKoundal&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧩 DSA Practice
+![LeetCode Stats](https://leetcard.jacoblin.cool/<your-leetcode-username>?theme=dark&font=Nunito&ext=contest)
 
 ---
 
