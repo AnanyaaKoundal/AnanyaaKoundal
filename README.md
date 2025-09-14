@@ -2,7 +2,7 @@
 
 🎯 **Software Developer | Computer Science Graduate | Problem Solver**
 
-I am a passionate **Computer Science graduate (B.Sc. Hons)** currently pursuing MCA (Distance Learning) while working at **Accenture** (Client: Google).  
+I am a passionate **Computer Science graduate (B.Sc. Hons)** currently working at **Accenture**.  
 I love building **scalable web applications**, solving challenging problems, and continuously learning new technologies.  
 
 ---
