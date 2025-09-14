@@ -34,7 +34,7 @@ I love building **scalable web applications**, solving challenging problems, and
 ---
 
 ## 🧩 DSA Practice
-![LeetCode Stats](https://leetcard.jacoblin.cool/<your-leetcode-username>?theme=dark&font=Nunito&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/<Anna-K>?theme=dark&font=Nunito&ext=contest)
 
 ---
 
@@ -42,6 +42,7 @@ I love building **scalable web applications**, solving challenging problems, and
 - **LinkedIn:** [linkedin.com/in/ananyaa-koundal](https://www.linkedin.com/in/ananyaa-koundal/)  
 - **Email:** [ananyaa.koundal@gmail.com](mailto:ananyaa.koundal@gmail.com)  
 - **GitHub:** [github.com/AnanyaaKoundal](https://github.com/AnanyaaKoundal)
+- **LeetCode:** [leetcode.com/u/Anna-K](https://leetcode.com/u/Anna-K/)
 
 ---
 
