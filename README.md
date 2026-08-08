@@ -14,26 +14,19 @@ Currently exploring **LLM systems, RAG, AI agents, and production AI application
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-C++, JavaScript, TypeScript, Python, Java
+**Languages:**  C++, JavaScript, TypeScript, Python, Java
 
-**Backend:**  
-Node.js, Express.js, REST APIs, Prisma
+**Backend:**  Node.js, Express.js, REST APIs, Prisma
 
-**Frontend:**  
-Next.js, React.js, Tailwind CSS, shadcn/ui
+**Frontend:**  Next.js, React.js, Tailwind CSS, shadcn/ui
 
-**Databases & Storage:**  
-PostgreSQL, MongoDB, MySQL, SQLite, Redis, S3-compatible Object Storage
+**Databases & Storage:**  PostgreSQL, MongoDB, MySQL, SQLite, Redis, S3-compatible Object Storage
 
-**Systems & Streaming:**  
-Apache Kafka, BullMQ, WebSockets, Server-Sent Events, HLS, FFmpeg
+**Systems & Streaming:**  Apache Kafka, BullMQ, WebSockets, Server-Sent Events, HLS, FFmpeg
 
-**DevOps & Tools:**  
-Docker, Linux, Git, GitHub Actions
+**DevOps & Tools:**  Docker, Linux, Git, GitHub Actions
 
-**AI & LLM:**  
-OpenAI, Gemini, Google AI Studio, LLM APIs
+**AI & LLM:**  OpenAI, Gemini, Google AI Studio, LLM APIs
 
 ---
 
