@@ -1,35 +1,85 @@
-# Hi there 👋, I'm Ananyaa Koundal  
+# Hi, I'm Ananyaa 👋
 
-🎯 **Software Developer | Computer Science Graduate | Problem Solver**
+### Software Engineer | Backend & Full-Stack Development
 
-I am a passionate **Computer Science graduate (B.Sc. Hons)** currently working at **Accenture**.  
-I love building **scalable web applications**, solving challenging problems, and continuously learning new technologies.  
+I’m a Computer Science graduate and software developer focused on building
+scalable backend and full-stack systems.
+
+I enjoy working with distributed systems, asynchronous processing, real-time
+applications, and AI/LLM-powered workflows.
+
+Currently exploring **LLM systems, RAG, AI agents, and production AI applications**.
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** C++, Python, Java, JavaScript, TypeScript  
-**Frameworks & Libraries:** React, Next.js, Express.js, Node.js  
-**Databases:** MongoDB, MySQL, SQLite  
-**Tools:** Git, Google Workspace  
-**Other:** Problem-solving, Team Collaboration, Critical Thinking  
+
+**Languages:**  
+C++, JavaScript, TypeScript, Python, Java
+
+**Backend:**  
+Node.js, Express.js, REST APIs, Prisma
+
+**Frontend:**  
+Next.js, React.js, Tailwind CSS, shadcn/ui
+
+**Databases & Storage:**  
+PostgreSQL, MongoDB, MySQL, SQLite, Redis, S3-compatible Object Storage
+
+**Systems & Streaming:**  
+Apache Kafka, BullMQ, WebSockets, Server-Sent Events, HLS, FFmpeg
+
+**DevOps & Tools:**  
+Docker, Linux, Git, GitHub Actions
+
+**AI & LLM:**  
+OpenAI, Gemini, Google AI Studio, LLM APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔧 [Tracora – Bug Tracking SaaS](https://github.com/AnanyaaKoundal/Tracora)
-- Full-stack bug tracking application with **role-based access**, **secure JWT authentication**, and **scalable architecture**.  
-- Tech Stack: Next.js, TypeScript, Node.js, Express, MongoDB, React Hook Form, Tailwind CSS.  
+### 🎬 [Relay — Video Learning Platform](https://github.com/AnanyaaKoundal/Relay)
 
-### 🌐 [TrueView – Fake Review Detection Chrome Extension](https://github.com/Pritam04Mandal/TrueView)
-- Browser extension that classifies product reviews as **genuine or fake** using a trained ML model.  
-- Tech Stack: HTML, CSS, JavaScript (UI), Python (Flask, scikit-learn).  
+A full-stack video learning platform built around an asynchronous video
+processing and adaptive streaming pipeline.
+
+- Video transcoding with **FFmpeg** and multi-bitrate **HLS**
+- Background processing using **BullMQ**
+- S3-compatible object storage using **RustFS**
+- Course, lesson, quiz, payment and coupon systems
+- Idempotent payment workflows and automatic tax calculation
+- Instructor analytics and administrative management
+
+**Stack:** Next.js · TypeScript · Express · PostgreSQL · Prisma · Redis ·
+BullMQ · FFmpeg · HLS · RustFS
 
 ---
 
-## 📊 GitHub Stats
-![Ananyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaaKoundal&show_icons=true&theme=tokyonight)
+### 🐛 [Tracora — Multi-Tenant Bug Tracking SaaS](https://github.com/AnanyaaKoundal/Tracora)
+
+A multi-tenant bug tracking platform designed around event-driven and
+real-time workflows.
+
+- Multi-tenant architecture with **RBAC**
+- Event-driven workflows using **Apache Kafka**
+- Real-time updates using **WebSockets**
+- Secure authentication and scalable REST APIs
+
+**Stack:** Next.js · TypeScript · Node.js · Express · MongoDB · Kafka ·
+WebSockets
+
+---
+
+## 🤖 Currently Exploring
+
+- LLM Systems
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Tool Calling
+- Embeddings & Vector Search
+- LLM Evaluation
+- Production AI Architecture
 
 ---
 
