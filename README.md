@@ -14,23 +14,39 @@ Currently exploring **LLM systems, RAG, AI agents, and production AI application
 
 ## 🛠️ Tech Stack
 
-**Languages:**  C++, JavaScript, TypeScript, Python, Java
+**Languages:** TypeScript, Python, JavaScript, C++, Java
 
-**Backend:**  Node.js, Express.js, REST APIs, Prisma
+**Backend:** Node.js, Express.js, FastAPI, REST APIs, Prisma, Mongoose
 
-**Frontend:**  Next.js, React.js, Tailwind CSS, shadcn/ui
+**Frontend:** Next.js, React.js, Tailwind CSS, shadcn/ui
 
-**Databases & Storage:**  PostgreSQL, MongoDB, MySQL, SQLite, Redis, S3-compatible Object Storage
+**Databases & Storage:** PostgreSQL, MongoDB, MySQL, SQLite, Redis, Qdrant, S3-compatible storage
 
-**Systems & Streaming:**  Apache Kafka, BullMQ, WebSockets, Server-Sent Events, HLS, FFmpeg
+**Systems & Streaming:** Apache Kafka, BullMQ, WebSockets, Server-Sent Events, HLS, FFmpeg
 
-**DevOps & Tools:**  Docker, Linux, Git, GitHub Actions
+**AI & LLM:** RAG, Agentic tool-calling, Multi-provider LLM gateways (Ollama · Groq · HF · OpenAI), Embeddings & vector search, LLM evaluation harnesses
 
-**AI & LLM:**  OpenAI, Gemini, Google AI Studio, LLM APIs
+**DevOps & Tools:** Docker, Linux, Git, GitHub Actions
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🐛 [Tracora — Multi-Tenant Bug Tracker with a Grounded AI Assistant](https://github.com/AnanyaaKoundal/Tracora)
+
+A multi-tenant bug tracker built around two enforced guarantees: cross-tenant access
+always returns 404 (never 403), and the in-app AI assistant can only cite ids a tool
+actually retrieved for that tenant — never a fabricated reference.
+
+- FastAPI agent service with native tool-calling (`find_similar_bugs`, `get_bug`, `find_projects`)
+- Qdrant vector search for semantic duplicate detection and grounded retrieval
+- Provider-agnostic LLM gateway (Ollama / Groq / HF / OpenAI) with a hard paid-API gate
+- Kafka-driven real-time notifications over WebSocket
+- 104 unit tests + a 41-case graded eval suite with committed baselines
+
+**Stack:** Next.js · Express · FastAPI · MongoDB · Kafka · Qdrant · WebSockets
+
+---
 
 ### 🎬 [Relay — Video Learning Platform](https://github.com/AnanyaaKoundal/Relay)
 
@@ -49,30 +65,36 @@ BullMQ · FFmpeg · HLS · RustFS
 
 ---
 
-### 🐛 [Tracora — Multi-Tenant Bug Tracking SaaS](https://github.com/AnanyaaKoundal/Tracora)
+### 🤖 [Spur AI Support Agent](https://github.com/AnanyaaKoundal/Spur-AI-Support-Agent)
 
-A multi-tenant bug tracking platform designed around event-driven and
-real-time workflows.
+A deployed AI customer-support agent with live, testable retrieval-augmented answers.
 
-- Multi-tenant architecture with **RBAC**
-- Event-driven workflows using **Apache Kafka**
-- Real-time updates using **WebSockets**
-- Secure authentication and scalable REST APIs
+- Live demo deployment (Vercel + Render + Neon Postgres)
+- ~20 automated tests (Vitest/Supertest)
+- Policy-as-data design and bounded context windows for cost control
 
-**Stack:** Next.js · TypeScript · Node.js · Express · MongoDB · Kafka ·
-WebSockets
+**Stack:** TypeScript · Node.js · PostgreSQL · Gemini API
 
 ---
 
-## 🤖 Currently Exploring
+### 📹 [Conflux — Real-Time Video Calls with AI Meeting Notes](https://github.com/AnanyaaKoundal/conflux)
 
-- LLM Systems
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Tool Calling
-- Embeddings & Vector Search
-- LLM Evaluation
-- Production AI Architecture
+A Zoom-style video calling app with AI-generated meeting notes after each call.
+
+- Real-time video via Stream's WebRTC SDK
+- Dual-LLM setup (Gemini + Groq) for post-call summarization
+- Clerk auth, scheduling, and transactional email via Resend
+
+**Stack:** Next.js · Stream · MongoDB · Gemini · Groq
+
+---
+
+## 🧠 AI/LLM Focus
+
+Shipped: RAG, agentic tool-calling, multi-provider LLM gateways, grounding/citation
+enforcement, LLM evaluation harnesses.
+
+Exploring next: multi-agent orchestration, MCP, fine-tuning.
 
 ---
 
