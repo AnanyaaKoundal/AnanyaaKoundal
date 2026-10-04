@@ -77,18 +77,6 @@ A deployed AI customer-support agent with live, testable retrieval-augmented ans
 
 ---
 
-### 📹 [Conflux — Real-Time Video Calls with AI Meeting Notes](https://github.com/AnanyaaKoundal/conflux)
-
-A Zoom-style video calling app with AI-generated meeting notes after each call.
-
-- Real-time video via Stream's WebRTC SDK
-- Dual-LLM setup (Gemini + Groq) for post-call summarization
-- Clerk auth, scheduling, and transactional email via Resend
-
-**Stack:** Next.js · Stream · MongoDB · Gemini · Groq
-
----
-
 ## 🧠 AI/LLM Focus
 
 Shipped: RAG, agentic tool-calling, multi-provider LLM gateways, grounding/citation
@@ -106,7 +94,6 @@ Exploring next: multi-agent orchestration, MCP, fine-tuning.
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/ananyaa-koundal](https://www.linkedin.com/in/ananyaa-koundal/)  
 - **Email:** [ananyaa.koundal@gmail.com](mailto:ananyaa.koundal@gmail.com)  
-- **GitHub:** [github.com/AnanyaaKoundal](https://github.com/AnanyaaKoundal)
 - **LeetCode:** [leetcode.com/u/Anna-K](https://leetcode.com/u/Anna-K/)
 
 ---
